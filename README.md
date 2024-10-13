@@ -1,2 +1,2 @@
 # VipDiff
-A training-free denoising-diffusion framework for video inpainting
+Official code for WACV 2025 paper: VipDiff: Towards Coherent and Diverse Video Inpainting via Training-free Denoising Diffusion Models.
